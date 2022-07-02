@@ -1,0 +1,11 @@
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\bin\Debug\IMSS.Calculator.exe.config
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\bin\Debug\IMSS.Calculator.exe
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\bin\Debug\IMSS.Calculator.pdb
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.csproj.AssemblyReference.cache
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.Calculator.resources
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.Properties.Resources.resources
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.csproj.GenerateResource.cache
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.csproj.CoreCompileInputs.cache
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.exe
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.pdb
+D:\Bibliotecas\Documentos\Programming Projects\C#\IMSS.Calculator.UI\IMSS.Calculator\obj\Debug\IMSS.Calculator.csproj.SuggestedBindingRedirects.cache
